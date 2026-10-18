@@ -1,39 +1,37 @@
-# Hi, I’m Khaya 👋
+# Hi, I'm Khaya Mathebula 👋
 
-I’m a software developer focused on building modern mobile, web, and cloud experiences with clean UI and practical functionality.
+**Software Developer | Azure Cloud & Infrastructure | Automation**
 
-## About me
+I'm an IT Software Development graduate working in cloud technology. I enjoy building practical applications, automating repetitive tasks and solving infrastructure problems through software and cloud engineering.
 
-I enjoy turning ideas into polished products, from early prototypes to usable apps with strong user experience and maintainable architecture.
+My work sits at the intersection of application development, cloud infrastructure and security.
 
-## Featured projects
+## 🚀 Featured Projects
 
-- BiteDash — Flutter food delivery MVP with Material 3 UI and cart/payment flow
-- HugSpace — supportive social app concept for sharing feelings and receiving encouragement
-- My Portfolio — personal portfolio and developer profile site
-- KAZI GLAMOURZINE — creative landing page / editorial project
+- **Daily Tracker** — Flutter expense tracker with categories, charts and theme support.
+- **BiteDash** — Flutter food delivery MVP with Firebase integration.
+- **Hugspace** — Anonymous wellbeing app built with Flutter and Firebase.
+- **pyBackEnd** — Python and FastAPI backend exploring REST API design and data validation.
+- **AZ-104 Labs** — Practical Azure administration and cloud learning exercises.
 
-## Tech stack
+## 🛠️ Technologies
 
-- Flutter / Dart
-- Python / Flask
-- JavaScript / HTML / CSS
-- Azure cloud concepts and app integration
-- GitHub, Git, CI/CD basics
+- **Languages:** Python, Dart, C#, JavaScript, SQL
+- **Application Development:** Flutter, FastAPI, REST APIs
+- **Cloud:** Microsoft Azure, Azure Policy, Defender for Cloud
+- **Data:** MySQL, Firebase, Cloud Firestore
+- **Automation & Tools:** PowerShell, Git, GitHub
 
-## Current focus
+## ☁️ Current Focus
 
-- Building user-friendly mobile apps
-- Improving portfolio and project presentation
-- Exploring cloud and app architecture patterns
-- Turning ideas into deployable products
+- Deepening my Azure administration skills and preparing for AZ-104.
+- Building maintainable mobile and backend applications.
+- Exploring cloud governance, security and infrastructure automation.
+- Improving software architecture, testing and deployment workflows.
 
-## Connect
+## 🤝 Let's Connect
 
-- Portfolio: https://khaya2222.github.io/
-- GitHub: https://github.com/KHAYA2222
-- Projects: https://github.com/KHAYA2222?tab=repositories
+- **GitHub:** [KHAYA2222](https://github.com/KHAYA2222)
+- **Portfolio:** [Explore my work](https://khaya2222.github.io/)
 
-## Status
-
-Open to building meaningful projects, collaborations, and practical product ideas.
+I'm interested in practical engineering challenges, meaningful collaborations and building products that solve real problems.
